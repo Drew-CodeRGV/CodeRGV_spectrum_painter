@@ -28,7 +28,7 @@ pip install --user -e .
 
 Afterwards, the _img2iqstream_ is available from everywhere.
 
-##CodeRGV Modifications
+# CodeRGV Modifications
 Copy jam.iqhackrf and codergv.iqhackrf to root CodeRGV_spectrum_painter directory
 
 ## Usage
