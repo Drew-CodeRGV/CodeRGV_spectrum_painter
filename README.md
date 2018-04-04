@@ -2,8 +2,6 @@
 
 A tool to converts images to IQ streams that look like this when viewed in a waterfall plot.
 
-![Spectrum Example](doc/smiley.jpg)
-
 ## Setup
 
 ### Dependencies
@@ -29,6 +27,9 @@ pip install --user -e .
 ```
 
 Afterwards, the _img2iqstream_ is available from everywhere.
+
+##CodeRGV Modifications
+Copy jam.iqhackrf and codergv.iqhackrf to root CodeRGV_spectrum_painter directory
 
 ## Usage
 
